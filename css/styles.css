@@ -566,6 +566,19 @@ hr{
         justify-content: space-between;
         align-items: center;
     }
+   .tutorial{
+    gap: 10px;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    bottom: 50px;
+    left: 0px;
+   }
+    .hero-image-container .videos{
+    position: absolute;
+    top: -3px;
+    right: 0px;
+   }
     .large{
         max-width: 576px;
         padding: 20px;
